@@ -1,4 +1,2 @@
-require("engine")
-
-
-
+require("config.lazy")
+require("config.remap")
